@@ -1,11 +1,12 @@
 ### Jungin Lee 
-<img alt="Gmail" width='55px' src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jilee0980@gmail.com"/> <a href="http:/zungin.github.io" width='40px' target="_blank"> <img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> <Br> 
+
+<a href="mailto:jilee0980@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jilee0980@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://jungin.tistory.com" width='40px' target="_blank"> <img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> <Br> 
 
 #### 🏃🏼‍♀️ Learning About <br> 
 Data Analysis , Deep Learning <br>
   
 
-#### 🏃🏼‍♀️ Projects <br> 
+#### 👩🏻‍💻 Projects <br> 
   
 S-Core 산학협력 프로젝트 - 클라우드 기반 데브옵스 개선 방안 연구 (2020.12 - 2021.03) <br>
 기상청 빅데이터 공모전 - 날씨에 따른 비건 제품 추천 서비스 (2021.04 - 2021.06) <br>
