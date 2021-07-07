@@ -1,7 +1,5 @@
 ### Jungin Lee 
 
-<a href="mailto:jilee0980@gmail.com" target="_blank"><img src="https://img.shields.io/badge/jilee0980@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a> <a href="https://jungin.tistory.com" width='40px' target="_blank"> <img src="https://img.shields.io/badge/Blog-DD0B78?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a> <Br> 
-
 #### 🏃🏼‍♀️ Learning About <br> 
 Data Analysis , Deep Learning <br>
   
